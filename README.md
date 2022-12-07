@@ -10,6 +10,7 @@
 This project was conducted in SQL for CareerFoundry Data Analytics Program.
 
 **Context**
+=
 
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive. The Management Board has developed a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy.
 
@@ -28,6 +29,7 @@ This project aims to answer the following questions:
 ❖ Which movies contributed the most/least to revenue gain?
 
 **Data**
+=
 A relational database made up of 17 tables containing data on film, rentals, customers, actors, payment and more.
 [Full Data Set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
