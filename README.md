@@ -17,6 +17,6 @@ A relational database made up of 17 tables containing data on film, rentals, cus
 [Full Data Set](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 
 Please use the links below to access the project's visualizations:
-[Sales by Geographic Region](https://public.tableau.com/app/profile/ruth5502/viz/SalesbyGeographicRegion_16671781559230/Sheet5?publish=yes)
-[Geographical distribution of customers](https://public.tableau.com/app/profile/ruth5502/viz/GeographicalDistributionofCustomers/Sheet3?publish=yes) 
+[Sales by Geographic Region](https://public.tableau.com/app/profile/ruth5502/viz/SalesbyGeographicRegion_16671781559230/Sheet5?publish=yes) ,
+[Geographical distribution of customers](https://public.tableau.com/app/profile/ruth5502/viz/GeographicalDistributionofCustomers/Sheet3?publish=yes) ,and 
 [Top 5 Customers in the top 10 cities](https://public.tableau.com/app/profile/ruth5502/viz/Top5Customersinthetop10Cities/Sheet4?publish=yes)
