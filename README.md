@@ -7,9 +7,13 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 Objectives
 This project aims to answer the following questions:
 ❖ Which countries are rockbuster customers based in?
+
 ❖ Where are customers with a high lifetime value based?
+
 ❖ Do sales figures vary between geographic regions?
+
 ❖ What was the average rental duration for all videos?
+
 ❖ Which movies contributed the most/least to revenue gain?
 
 Data
@@ -18,5 +22,5 @@ A relational database made up of 17 tables containing data on film, rentals, cus
 
 Please use the links below to access the project's visualizations:
 [Sales by Geographic Region](https://public.tableau.com/app/profile/ruth5502/viz/SalesbyGeographicRegion_16671781559230/Sheet5?publish=yes) ,
-[Geographical distribution of customers](https://public.tableau.com/app/profile/ruth5502/viz/GeographicalDistributionofCustomers/Sheet3?publish=yes) ,and 
+[Geographical distribution of customers](https://public.tableau.com/app/profile/ruth5502/viz/GeographicalDistributionofCustomers/Sheet3?publish=yes) , and 
 [Top 5 Customers in the top 10 cities](https://public.tableau.com/app/profile/ruth5502/viz/Top5Customersinthetop10Cities/Sheet4?publish=yes)
