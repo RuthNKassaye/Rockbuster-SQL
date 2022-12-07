@@ -6,6 +6,7 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 Objectives
 This project aims to answer the following questions:
+
 ❖ Which countries are rockbuster customers based in?
 
 ❖ Where are customers with a high lifetime value based?
