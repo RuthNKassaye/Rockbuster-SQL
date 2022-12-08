@@ -1,12 +1,5 @@
 # Rockbuster-SQL
 
-
-![](Rockbuster_Image.jpg).
-
-
-
-
-
 This project was conducted in SQL for CareerFoundry Data Analytics Program.
 
 **Context**
